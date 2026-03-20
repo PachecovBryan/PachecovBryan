@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hola, soy Bryan Pacheco
 
-<!--
-**PachecovBryan/PachecovBryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero de software actualmente trabajando en mi portafolio, en desarrollo de sistemas, IoT y backend.
+Me interesa construir soluciones bien estructuradas, mantenibles y escalables.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+### 🔹 IoT Intelligent Safety System
+Sistema IoT con ESP32 para detección de gas, fuego y temperatura, con alertas y control en tiempo real mediante Telegram.
+
+- Lectura de sensores (MQ2, DHT11, YL-38)
+- Arquitectura modular (sensors, controller, services)
+- Activación automática de actuadores
+- Control remoto vía Telegram
+
+🔗 https://github.com/PachecovBryan/iot-intelligent-safety-system
+
+---
+
+### 🔹 Sistema Gestor de Titulación (En desarrollo)
+Sistema orientado a gestionar procesos de titulación académica en instituciones educativas.
+
+- Enfoque en digitalización de procesos
+- Control de expedientes y seguimiento
+- Arquitectura escalable
+
+---
+
+## 🧠 Tecnologías
+
+- C++ / Arduino / ESP32
+- APIs REST
+- Integración de servicios (Telegram)
+- Arquitectura de software
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/PachecovBryan
+- Email: bryanpachecov81@gmail.com
